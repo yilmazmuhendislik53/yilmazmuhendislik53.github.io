@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Yılmaz Mühendislik Asansör</title>
+</head>
+<body style="font-family:Arial;text-align:center;padding:50px;">
+
+<h1>Yılmaz Mühendislik Asansör Market</h1>
+
+<p>Rize Asansör Kurulum • Bakım • Servis</p>
+
+<h3>7/24 Hizmet</h3>
+
+<a href="tel:05XXXXXXXXX">
+<button style="padding:10px 20px;">Hemen Ara</button>
+</a>
+
+<br><br>
+
+<a href="https://wa.me/905XXXXXXXXX">
+<button style="padding:10px 20px;background:green;color:white;">WhatsApp</button>
+</a>
+
+</body>
+</html>
